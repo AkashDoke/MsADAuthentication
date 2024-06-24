@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\obj\\Debug\\net8.0\\compressed\\l9joxbbaav.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MSAdAuthenticationChangesUI.styles.css",
+      "PackagePath": "staticwebassets\\MSAdAuthenticationChangesUI.styles.css"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Learning\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\MSAdAuthenticationChangesUI\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MSAdAuthenticationChangesUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MSAdAuthenticationChangesUI.props",
+      "PackagePath": "build\\MSAdAuthenticationChangesUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MSAdAuthenticationChangesUI.props",
+      "PackagePath": "buildMultiTargeting\\MSAdAuthenticationChangesUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MSAdAuthenticationChangesUI.props",
+      "PackagePath": "buildTransitive\\MSAdAuthenticationChangesUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

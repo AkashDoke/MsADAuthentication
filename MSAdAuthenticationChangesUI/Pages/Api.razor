@@ -1,0 +1,30 @@
+﻿@page "/api"
+@inject HttpClient Http
+@attribute [Authorize]
+
+
+<AuthorizeView>
+<PageTitle>API</PageTitle>
+    <h1>Email : @user.Email</h1>
+    <h1>Name : @user.Name</h1>
+    <h1>UserId : @user.UserId</h1>
+</AuthorizeView>
+
+
+
+@code {
+    private User user = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        user = await Http.GetFromJsonAsync<User>("api/Function") ?? new User();
+    }
+
+    public class User
+    {
+        public string UserId { get; set; }
+        public string Email { get; set; }
+        public string Name { get; set; }
+        // Add other properties as needed
+    }
+}
